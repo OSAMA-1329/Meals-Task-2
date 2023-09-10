@@ -1,0 +1,31 @@
+.container form {
+    margin-top: 2em;
+    padding:2em;
+  width: 100%;
+  background-color: black;
+  display:flex;
+  align-items: right;
+  justify-self: center;
+  color:black:;
+  
+}
+input{
+    width:500px;
+    height:20px;
+    border-radius: 2px;
+    border-color: orange;
+    align-items: center;
+    float:center;
+
+}
+:hover{
+    color:Black;
+    
+}
+button{
+    color:white;
+    background-color: orange;
+    border-radius: 10px;
+    
+
+}
